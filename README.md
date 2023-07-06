@@ -12,7 +12,7 @@ Para executar o código, siga as instruções abaixo:
 4. Execute o seguinte comando:
 
    ```
-   python nome_do_arquivo.py
+   python Fatiamento_de_strings.py
    ```
 
 ## Utilização
