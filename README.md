@@ -1,0 +1,2 @@
+# Fatiamento_Strings
+ 
